@@ -1,0 +1,7 @@
+(pushgp argmap)
+core.clj
+lein
+exit
+(pushgp argmap)
+reload
+exit
